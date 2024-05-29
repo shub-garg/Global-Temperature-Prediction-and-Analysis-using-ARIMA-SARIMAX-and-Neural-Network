@@ -61,7 +61,9 @@ pip install tensorflow statsmodels
 
 ## Contributing
 Shubham Garg- sg8311@nyu.edu
+
 Raunak Shukla - rs8668@nyu.edu
+
 Phani Varma Gadiraju - pg2542@nyu.edu
 
 ## License
